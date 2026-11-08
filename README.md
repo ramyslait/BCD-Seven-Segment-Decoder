@@ -28,4 +28,3 @@ The file has been checked as valid JSON with four inputs and seven labeled outpu
 ## Team
 
 The original report credits **Mohamed Hesham, Ramy Slait, Mohamed Hany Kotb, and Fouad Khaled**. This repository presents the team's coursework with those credits preserved.
-
